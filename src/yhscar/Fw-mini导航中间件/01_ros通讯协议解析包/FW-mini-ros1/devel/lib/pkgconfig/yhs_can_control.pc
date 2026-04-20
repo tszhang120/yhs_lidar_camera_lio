@@ -1,0 +1,8 @@
+prefix=/home/zts/真机数据接口/Fw-mini导航中间件/01_ros通讯协议解析包/FW-mini-ros1/devel
+
+Name: yhs_can_control
+Description: Description of yhs_can_control
+Version: 0.0.0
+Cflags: -I/home/zts/真机数据接口/Fw-mini导航中间件/01_ros通讯协议解析包/FW-mini-ros1/src/yhs_can_control/include
+Libs: -L${prefix}/lib -lyhs_can_control_node
+Requires: roscpp rospy std_msgs message_runtime

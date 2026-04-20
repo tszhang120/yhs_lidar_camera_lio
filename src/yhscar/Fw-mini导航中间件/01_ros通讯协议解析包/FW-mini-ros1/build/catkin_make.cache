@@ -1,0 +1,2 @@
+yhs_can_control:yhs_can_msgs
+-DCATKIN_DEVEL_PREFIX=/home/zts/真机数据接口/Fw-mini导航中间件/01_ros通讯协议解析包/FW-mini-ros1/devel -DCMAKE_INSTALL_PREFIX=/home/zts/真机数据接口/Fw-mini导航中间件/01_ros通讯协议解析包/FW-mini-ros1/install -G Unix Makefiles

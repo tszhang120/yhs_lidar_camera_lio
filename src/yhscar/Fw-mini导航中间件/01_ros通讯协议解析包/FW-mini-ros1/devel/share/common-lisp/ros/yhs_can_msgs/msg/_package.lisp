@@ -1,0 +1,33 @@
+(cl:defpackage yhs_can_msgs-msg
+  (:use )
+  (:export
+   "<BMS_FB>"
+   "BMS_FB"
+   "<BMS_FLAG_FB>"
+   "BMS_FLAG_FB"
+   "<CTRL_CMD>"
+   "CTRL_CMD"
+   "<CTRL_FB>"
+   "CTRL_FB"
+   "<FRONT_ANGLE_FB>"
+   "FRONT_ANGLE_FB"
+   "<IO_CMD>"
+   "IO_CMD"
+   "<IO_FB>"
+   "IO_FB"
+   "<LF_WHEEL_FB>"
+   "LF_WHEEL_FB"
+   "<LR_WHEEL_FB>"
+   "LR_WHEEL_FB"
+   "<REAR_ANGLE_FB>"
+   "REAR_ANGLE_FB"
+   "<RF_WHEEL_FB>"
+   "RF_WHEEL_FB"
+   "<RR_WHEEL_FB>"
+   "RR_WHEEL_FB"
+   "<STEERING_CTRL_CMD>"
+   "STEERING_CTRL_CMD"
+   "<STEERING_CTRL_FB>"
+   "STEERING_CTRL_FB"
+  ))
+

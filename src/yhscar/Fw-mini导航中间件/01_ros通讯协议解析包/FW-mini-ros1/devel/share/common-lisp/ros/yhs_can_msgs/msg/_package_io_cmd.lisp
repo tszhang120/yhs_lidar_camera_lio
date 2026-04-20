@@ -1,0 +1,20 @@
+(cl:in-package yhs_can_msgs-msg)
+(cl:export '(IO_CMD_LAMP_CTRL-VAL
+          IO_CMD_LAMP_CTRL
+          IO_CMD_UNLOCK-VAL
+          IO_CMD_UNLOCK
+          IO_CMD_LOWER_BEAM_HEADLAMP-VAL
+          IO_CMD_LOWER_BEAM_HEADLAMP
+          IO_CMD_UPPER_BEAM_HEADLAMP-VAL
+          IO_CMD_UPPER_BEAM_HEADLAMP
+          IO_CMD_TURN_LAMP-VAL
+          IO_CMD_TURN_LAMP
+          IO_CMD_BRAKING_LAMP-VAL
+          IO_CMD_BRAKING_LAMP
+          IO_CMD_CLEARANCE_LAMP-VAL
+          IO_CMD_CLEARANCE_LAMP
+          IO_CMD_FOG_LAMP-VAL
+          IO_CMD_FOG_LAMP
+          IO_CMD_SPEAKER-VAL
+          IO_CMD_SPEAKER
+))

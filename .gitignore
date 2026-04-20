@@ -1,0 +1,6 @@
+/data
+/.codex
+/.history
+
+# Prebuilt viewer bundle is too large for standard GitHub pushes.
+/LivoxViewer2 for Ubuntu v2.3.0/

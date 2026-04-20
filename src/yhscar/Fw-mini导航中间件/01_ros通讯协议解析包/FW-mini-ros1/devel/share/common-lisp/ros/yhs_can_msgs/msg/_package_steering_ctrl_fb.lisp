@@ -1,0 +1,8 @@
+(cl:in-package yhs_can_msgs-msg)
+(cl:export '(STEERING_CTRL_FB_GEAR-VAL
+          STEERING_CTRL_FB_GEAR
+          STEERING_CTRL_FB_VELOCITY-VAL
+          STEERING_CTRL_FB_VELOCITY
+          STEERING_CTRL_FB_STEERING-VAL
+          STEERING_CTRL_FB_STEERING
+))
